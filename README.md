@@ -9,15 +9,3 @@ Category-Product是多对一的关系,一个分类里面可以有多个Product<b
 主要是保存连接数据库的相关信息和连接属性的类等信息<br>
 <br>
 除此之外,注解开发可以自动的生成相应的数据表<br>
-                                                                        dbakdbka'
-        
-    adbkdhak
-    dakdhak
-    等发达肯定不不啊看不到吧啊
-    打的那可能
-    daldha;
-    dadha;
-    你好                    
-         阿大大                   
-        dbakalkdn kah ;an.ab klb k.aavbsfhl bbv 
-        那块bbvAK:VB没老ＫＳｖｂ看Ｂ看ＤＢＫ　ｖｂｓｋＢ不ＫＶＢ再看吧
